@@ -234,6 +234,7 @@
                                             <input type="text" name="section_name_en" class="form-control"
                                                 placeholder="{{ trans('sections_trans.sectionName_en') }}">
                                         </div>
+                                    </div>
 
 
                                         <br>
@@ -262,7 +263,6 @@
                                             class="btn btn-danger">{{ trans('sections_trans.submit') }}</button>
                                     </div>
                                 </form>
-                            </div>
                         </div>
                     </div>
 
